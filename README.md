@@ -16,12 +16,9 @@ No more manually clicking through the "Single sign-on to Oslo kommune" screen ev
 git clone https://github.com/ivaruf/auto-saml-clicker.git
 ```
 
-**Option B: Download as ZIP**
+**Option B: [Download as ZIP](https://github.com/ivaruf/auto-saml-clicker/archive/refs/heads/main.zip)**
 
-1. Go to the [repository page](https://github.com/ivaruf/auto-saml-clicker)
-2. Click the green **Code** button
-3. Select **Download ZIP**
-4. Extract the ZIP to a folder on your machine
+Extract the ZIP to a folder on your machine.
 
 ## Installation
 
