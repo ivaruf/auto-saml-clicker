@@ -3,6 +3,11 @@
   "name": "GitHub SAML Auto-Continue",
   "description": "Automatically clicks the Continue button on GitHub SAML SSO pages for oslokommune",
   "version": "1.0",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
   "content_scripts": [
     {
       "matches": ["https://github.com/*"],
