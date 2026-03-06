@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" alt="GitHub SAML Auto-Continue logo" width="128" />
+</p>
+
 # GitHub SAML Auto-Continue
 
 A minimal Chrome extension that automatically clicks the "Continue" button on GitHub's SAML SSO page for the **oslokommune** organization.
